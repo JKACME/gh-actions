@@ -8,14 +8,14 @@
   "author": "github/c2c-actions-experience",
   "license": "MIT",
   "devDependencies": {
-    "@types/js-yaml": "^3.12.4",
+    "@types/js-yaml": "^4.0.0",
     "@types/node": "^14.0.1",
     "ts-node": "^8.10.1",
     "typescript": "^3.9.2"
   },
   "dependencies": {
     "@actions/core": "^1.9.1",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.0.0",
     "jsonschema": "^1.2.6"
   }
 }
